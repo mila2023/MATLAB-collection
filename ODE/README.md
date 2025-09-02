@@ -1,4 +1,5 @@
 # Numerical ODE Solvers
+Final report on tasks — a concise summary of the project objectives, methods applied, and key conclusions.
 
 ## Overview
 This project explores different methods for solving ordinary differential equations (ODEs).  
