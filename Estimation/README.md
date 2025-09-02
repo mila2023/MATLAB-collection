@@ -1,6 +1,9 @@
 # Parameter Estimation
 Final Report on Tasks — a concise summary of the project objectives, methods applied, and key conclusions.
 
+## Output
+[Trajectory plot](figure.jpg)
+
 ## Overview
 This project focuses on estimating the parameters of a physical model describing the motion of three identical masses interacting under gravity.  
 The trajectories are modeled with a system of second-order linear ordinary differential equations.
